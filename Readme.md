@@ -18,8 +18,8 @@ The algorithm is designed to measure cuboids in a pointcloud capture from an iPa
 The algorithm is based on the assumption that you know the coordinates of a point in the top plane of the cuboid Additionally, the accuracy en efficiency of the algorithm depends on the density and quality of the pointcloud data.
 
 # Acknowledgment
-I would like to express my gratitude to Gilles Vandewiele for reviewing my research and for his valuable feedback and recommendations.
-I would also like to thank Vic Degreave for his help with the math and logic of the algorithm. His contribution was invaluable to the development and improvement of the algorithm.
+I would like to express my gratitude to [Gilles Vandewiele](https://github.com/GillesVandewiele) for reviewing my research and for his valuable feedback and recommendations.
+I would also like to thank [Vic Degreave](https://github.com/Moeflon) for his help with the math and logic of the algorithm. His contribution was invaluable to the development and improvement of the algorithm.
 ## References
 - Open3D library documentation: http://www.open3d.org/docs/index.html
 - Pyransac library documentation: https://pyransac.readthedocs.io/en/latest/
